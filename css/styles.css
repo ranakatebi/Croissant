@@ -1,5 +1,5 @@
 body {
-  background: #f8e8a6;
+  background: rgb(227, 216, 238);
 }
 
 h1,
@@ -20,7 +20,7 @@ footer {
 
 footer a {
   margin: 0 10px;
-  color: green;
+  color: #B75908;
 }
 
 .croissant-photo {
