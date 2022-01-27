@@ -2,9 +2,13 @@ body {
   background: rgb(227, 216, 238);
 }
 
-h1,
+h1 {
+  text-align: center;
+}
+
 p {
   text-align: center;
+  font-size: 30px;
 }
 
 .croissant-photo {
@@ -16,13 +20,19 @@ p {
 
 footer {
   text-align: center;
+  margin-top: 30px;
 }
 
 footer a {
   margin: 0 10px;
-  color: #B75908;
+  color: #b75908;
+  text-decoration: none;
+  font-size: medium;
 }
-
+a {
+  color: blue;
+  text-decoration: none;
+}
 .croissant-photo {
   width: 50%;
 }
